@@ -1,0 +1,8 @@
+# weather-outfit-picker — Python dependencies
+
+# Runtime
+requests>=2.31.0
+
+# Development / testing
+pytest>=7.4
+pytest-mock>=3.12
