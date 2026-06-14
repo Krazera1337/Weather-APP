@@ -208,6 +208,5 @@ The test suite includes 30+ cases covering temperature bands, rain/wind/UV logic
 
 ---
 
-## License
+## Readme is written by AI
 
-MIT — see [LICENSE](LICENSE).
